@@ -1,18 +1,3 @@
-'''
-            *Guess the Number Advanced*
-            
-        Made by: 
-
-        Abdelrahman 
-       Mostafa
-'''
-
-'''
-A program that lets you give yourself a number of tries and then the range you want the random number to be from and then lets you
-guess the random number, you lose if you dont guess it in the amount of tries you put
-    
-'''
-
 import random
 import time
 
